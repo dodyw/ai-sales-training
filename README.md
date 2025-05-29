@@ -87,7 +87,7 @@ A Flutter application designed to help sales professionals improve their door-to
 
 **Dody Rachmat W**  
 Website: [www.nicecoder.com](https://www.nicecoder.com)  
-Email: [dody@gmail.com](mailto:dody@gmail.com)
+Email: [dody@gmail.com](mailto:dody@nicecoder.com)
 
 Contact me to get help with custom mobile app development!
 
